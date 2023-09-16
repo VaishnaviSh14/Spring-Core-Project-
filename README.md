@@ -18,3 +18,8 @@ In summary, this project represents an online shopping system where the Flipkart
 The Test class demonstrates how to use these components within a Spring-based application. 
 The project seems to focus on demonstrating the usage of Spring's dependency injection and component scanning capabilities for building an e-commerce system.
 
+Output - 
+
+<img width="867" alt="image" src="https://github.com/VaishnaviSh14/Spring-Core-Project-/assets/123576868/cfc3d810-2a74-4924-9224-19492dac9e74">
+
+
